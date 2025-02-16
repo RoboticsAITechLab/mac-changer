@@ -1,0 +1,459 @@
+2025-02-16 05:35:44,610 - INFO - Starting MAC address changer script
+2025-02-16 05:35:44,613 - INFO - Changing MAC address of wlan0 to 55:50:62:89:3f:fe
+2025-02-16 05:35:44,637 - INFO - New MAC Address set: 55:50:62:89:3f:fe
+2025-02-16 05:36:45,939 - INFO - MAC Changer script terminated by user
+2025-02-16 05:37:11,938 - INFO - Starting MAC address changer script
+2025-02-16 05:37:11,940 - INFO - Changing MAC address of wlan0 to 50:35:1f:9a:2e:9e
+2025-02-16 05:37:11,963 - INFO - New MAC Address set: 50:35:1f:9a:2e:9e
+2025-02-16 05:39:45,306 - INFO - MAC Changer script terminated by user
+2025-02-16 05:40:24,045 - INFO - Starting Advanced MAC Changer Script
+2025-02-16 05:40:24,051 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:40:24,051 - INFO - Changing MAC address of lo to 00:1E:6F:53:58:53
+2025-02-16 05:40:24,116 - INFO - New MAC Address set: 00:1E:6F:53:58:53
+2025-02-16 05:41:02,348 - INFO - MAC Changer script terminated by user
+2025-02-16 05:41:18,692 - INFO - Disabling MAC Changer Service
+2025-02-16 05:44:18,241 - INFO - Starting Advanced MAC Changer Script
+2025-02-16 05:44:29,588 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:44:29,588 - INFO - Changing MAC address of lo to 00:1C:4D:fe:85:c4
+2025-02-16 05:44:29,653 - INFO - New MAC Address set: 00:1C:4D:fe:85:c4
+2025-02-16 05:44:39,659 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:44:39,659 - INFO - Changing MAC address of lo to 00:1A:2B:b4:39:16
+2025-02-16 05:44:39,726 - INFO - New MAC Address set: 00:1A:2B:b4:39:16
+2025-02-16 05:44:49,731 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:44:49,731 - INFO - Changing MAC address of lo to 00:1C:4D:07:ee:89
+2025-02-16 05:44:49,778 - INFO - New MAC Address set: 00:1C:4D:07:ee:89
+2025-02-16 05:44:59,783 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:44:59,784 - INFO - Changing MAC address of lo to 00:1A:2B:4e:70:f6
+2025-02-16 05:44:59,843 - INFO - New MAC Address set: 00:1A:2B:4e:70:f6
+2025-02-16 05:45:09,848 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:45:09,849 - INFO - Changing MAC address of lo to 00:1C:4D:95:d4:61
+2025-02-16 05:45:09,923 - INFO - New MAC Address set: 00:1C:4D:95:d4:61
+2025-02-16 05:45:19,925 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:45:19,925 - INFO - Changing MAC address of lo to 00:1D:5E:5e:28:21
+2025-02-16 05:45:19,945 - INFO - New MAC Address set: 00:1D:5E:5e:28:21
+2025-02-16 05:45:29,947 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:45:29,947 - INFO - Changing MAC address of lo to 00:1E:6F:00:42:f5
+2025-02-16 05:45:29,966 - INFO - New MAC Address set: 00:1E:6F:00:42:f5
+2025-02-16 05:45:39,968 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:45:39,968 - INFO - Changing MAC address of lo to 00:1E:6F:76:d9:96
+2025-02-16 05:45:39,987 - INFO - New MAC Address set: 00:1E:6F:76:d9:96
+2025-02-16 05:45:49,993 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:45:49,993 - INFO - Changing MAC address of lo to 00:1E:6F:33:88:7d
+2025-02-16 05:45:50,061 - INFO - New MAC Address set: 00:1E:6F:33:88:7d
+2025-02-16 05:46:00,067 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:00,067 - INFO - Changing MAC address of lo to 00:1A:2B:92:33:76
+2025-02-16 05:46:00,136 - INFO - New MAC Address set: 00:1A:2B:92:33:76
+2025-02-16 05:46:10,142 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:10,142 - INFO - Changing MAC address of lo to 00:1B:3C:33:ce:27
+2025-02-16 05:46:10,215 - INFO - New MAC Address set: 00:1B:3C:33:ce:27
+2025-02-16 05:46:20,217 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:20,217 - INFO - Changing MAC address of lo to 00:1A:2B:4d:aa:c3
+2025-02-16 05:46:20,235 - INFO - New MAC Address set: 00:1A:2B:4d:aa:c3
+2025-02-16 05:46:30,237 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:30,237 - INFO - Changing MAC address of lo to 00:1C:4D:9e:32:56
+2025-02-16 05:46:30,258 - INFO - New MAC Address set: 00:1C:4D:9e:32:56
+2025-02-16 05:46:40,260 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:40,260 - INFO - Changing MAC address of lo to 00:1C:4D:a7:1d:62
+2025-02-16 05:46:40,279 - INFO - New MAC Address set: 00:1C:4D:a7:1d:62
+2025-02-16 05:46:50,284 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:46:50,285 - INFO - Changing MAC address of lo to 00:1B:3C:c6:64:2b
+2025-02-16 05:46:50,348 - INFO - New MAC Address set: 00:1B:3C:c6:64:2b
+2025-02-16 05:47:00,354 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:00,354 - INFO - Changing MAC address of lo to 00:1D:5E:58:67:96
+2025-02-16 05:47:00,407 - INFO - New MAC Address set: 00:1D:5E:58:67:96
+2025-02-16 05:47:10,409 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:10,409 - INFO - Changing MAC address of lo to 00:1E:6F:ff:c1:ba
+2025-02-16 05:47:10,428 - INFO - New MAC Address set: 00:1E:6F:ff:c1:ba
+2025-02-16 05:47:20,430 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:20,430 - INFO - Changing MAC address of lo to 00:1B:3C:f4:b1:8a
+2025-02-16 05:47:20,449 - INFO - New MAC Address set: 00:1B:3C:f4:b1:8a
+2025-02-16 05:47:30,454 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:30,455 - INFO - Changing MAC address of lo to 00:1C:4D:a5:85:6a
+2025-02-16 05:47:30,488 - INFO - New MAC Address set: 00:1C:4D:a5:85:6a
+2025-02-16 05:47:40,490 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:40,490 - INFO - Changing MAC address of lo to 00:1A:2B:19:2d:dd
+2025-02-16 05:47:40,557 - INFO - New MAC Address set: 00:1A:2B:19:2d:dd
+2025-02-16 05:47:50,563 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:47:50,563 - INFO - Changing MAC address of lo to 00:1D:5E:39:1d:79
+2025-02-16 05:47:50,611 - INFO - New MAC Address set: 00:1D:5E:39:1d:79
+2025-02-16 05:48:00,617 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:00,617 - INFO - Changing MAC address of lo to 00:1D:5E:d3:4f:c1
+2025-02-16 05:48:00,675 - INFO - New MAC Address set: 00:1D:5E:d3:4f:c1
+2025-02-16 05:48:10,676 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:10,676 - INFO - Changing MAC address of lo to 00:1E:6F:0a:3d:8f
+2025-02-16 05:48:10,695 - INFO - New MAC Address set: 00:1E:6F:0a:3d:8f
+2025-02-16 05:48:20,701 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:20,701 - INFO - Changing MAC address of lo to 00:1C:4D:81:cc:95
+2025-02-16 05:48:20,770 - INFO - New MAC Address set: 00:1C:4D:81:cc:95
+2025-02-16 05:48:30,773 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:30,773 - INFO - Changing MAC address of lo to 00:1D:5E:44:3e:af
+2025-02-16 05:48:30,803 - INFO - New MAC Address set: 00:1D:5E:44:3e:af
+2025-02-16 05:48:40,808 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:40,809 - INFO - Changing MAC address of lo to 00:1C:4D:ec:b6:50
+2025-02-16 05:48:40,875 - INFO - New MAC Address set: 00:1C:4D:ec:b6:50
+2025-02-16 05:48:50,881 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:48:50,881 - INFO - Changing MAC address of lo to 00:1C:4D:36:60:84
+2025-02-16 05:48:50,947 - INFO - New MAC Address set: 00:1C:4D:36:60:84
+2025-02-16 05:49:00,952 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:00,953 - INFO - Changing MAC address of lo to 00:1B:3C:db:45:9f
+2025-02-16 05:49:00,988 - INFO - New MAC Address set: 00:1B:3C:db:45:9f
+2025-02-16 05:49:10,990 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:10,990 - INFO - Changing MAC address of lo to 00:1E:6F:65:37:ec
+2025-02-16 05:49:11,008 - INFO - New MAC Address set: 00:1E:6F:65:37:ec
+2025-02-16 05:49:21,010 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:21,010 - INFO - Changing MAC address of lo to 00:1E:6F:5e:7f:3d
+2025-02-16 05:49:21,028 - INFO - New MAC Address set: 00:1E:6F:5e:7f:3d
+2025-02-16 05:49:31,030 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:31,030 - INFO - Changing MAC address of lo to 00:1E:6F:9f:2a:3b
+2025-02-16 05:49:31,048 - INFO - New MAC Address set: 00:1E:6F:9f:2a:3b
+2025-02-16 05:49:41,050 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:41,050 - INFO - Changing MAC address of lo to 00:1D:5E:7e:51:af
+2025-02-16 05:49:41,069 - INFO - New MAC Address set: 00:1D:5E:7e:51:af
+2025-02-16 05:49:51,074 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:49:51,074 - INFO - Changing MAC address of lo to 00:1E:6F:25:9a:d5
+2025-02-16 05:49:51,124 - INFO - New MAC Address set: 00:1E:6F:25:9a:d5
+2025-02-16 05:50:01,129 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:01,130 - INFO - Changing MAC address of lo to 00:1D:5E:79:2f:b4
+2025-02-16 05:50:01,181 - INFO - New MAC Address set: 00:1D:5E:79:2f:b4
+2025-02-16 05:50:11,184 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:11,184 - INFO - Changing MAC address of lo to 00:1B:3C:73:4a:20
+2025-02-16 05:50:11,255 - INFO - New MAC Address set: 00:1B:3C:73:4a:20
+2025-02-16 05:50:21,259 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:21,259 - INFO - Changing MAC address of lo to 00:1C:4D:53:a7:28
+2025-02-16 05:50:21,306 - INFO - New MAC Address set: 00:1C:4D:53:a7:28
+2025-02-16 05:50:31,310 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:31,310 - INFO - Changing MAC address of lo to 00:1C:4D:58:d5:d8
+2025-02-16 05:50:31,366 - INFO - New MAC Address set: 00:1C:4D:58:d5:d8
+2025-02-16 05:50:41,372 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:41,372 - INFO - Changing MAC address of lo to 00:1B:3C:45:39:e2
+2025-02-16 05:50:41,448 - INFO - New MAC Address set: 00:1B:3C:45:39:e2
+2025-02-16 05:50:51,454 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:50:51,455 - INFO - Changing MAC address of lo to 00:1D:5E:9c:7d:05
+2025-02-16 05:50:51,526 - INFO - New MAC Address set: 00:1D:5E:9c:7d:05
+2025-02-16 05:51:01,532 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:01,533 - INFO - Changing MAC address of lo to 00:1B:3C:5a:bf:56
+2025-02-16 05:51:01,607 - INFO - New MAC Address set: 00:1B:3C:5a:bf:56
+2025-02-16 05:51:11,611 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:11,611 - INFO - Changing MAC address of lo to 00:1B:3C:13:54:6f
+2025-02-16 05:51:11,640 - INFO - New MAC Address set: 00:1B:3C:13:54:6f
+2025-02-16 05:51:21,641 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:21,641 - INFO - Changing MAC address of lo to 00:1C:4D:80:9c:ab
+2025-02-16 05:51:21,661 - INFO - New MAC Address set: 00:1C:4D:80:9c:ab
+2025-02-16 05:51:31,663 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:31,663 - INFO - Changing MAC address of lo to 00:1C:4D:04:c1:a0
+2025-02-16 05:51:31,682 - INFO - New MAC Address set: 00:1C:4D:04:c1:a0
+2025-02-16 05:51:41,683 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:41,683 - INFO - Changing MAC address of lo to 00:1D:5E:f7:23:03
+2025-02-16 05:51:41,702 - INFO - New MAC Address set: 00:1D:5E:f7:23:03
+2025-02-16 05:51:51,704 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:51:51,704 - INFO - Changing MAC address of lo to 00:1A:2B:1e:be:3d
+2025-02-16 05:51:51,724 - INFO - New MAC Address set: 00:1A:2B:1e:be:3d
+2025-02-16 05:52:01,729 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:01,730 - INFO - Changing MAC address of lo to 00:1E:6F:85:d1:fe
+2025-02-16 05:52:01,799 - INFO - New MAC Address set: 00:1E:6F:85:d1:fe
+2025-02-16 05:52:11,801 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:11,801 - INFO - Changing MAC address of lo to 00:1E:6F:91:0a:7b
+2025-02-16 05:52:11,821 - INFO - New MAC Address set: 00:1E:6F:91:0a:7b
+2025-02-16 05:52:20,074 - INFO - MAC Changer script terminated by user
+2025-02-16 05:52:35,079 - INFO - Starting Advanced MAC Changer Script
+2025-02-16 05:52:39,889 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:39,889 - INFO - Changing MAC address of lo to 00:1C:4D:48:2c:3a
+2025-02-16 05:52:39,965 - INFO - New MAC Address set: 00:1C:4D:48:2c:3a
+2025-02-16 05:52:41,971 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:41,971 - INFO - Changing MAC address of lo to 00:1C:4D:88:c1:bd
+2025-02-16 05:52:42,023 - INFO - New MAC Address set: 00:1C:4D:88:c1:bd
+2025-02-16 05:52:44,029 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:44,029 - INFO - Changing MAC address of lo to 00:1A:2B:23:9c:37
+2025-02-16 05:52:44,099 - INFO - New MAC Address set: 00:1A:2B:23:9c:37
+2025-02-16 05:52:46,105 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:46,105 - INFO - Changing MAC address of lo to 00:1D:5E:c0:83:25
+2025-02-16 05:52:46,165 - INFO - New MAC Address set: 00:1D:5E:c0:83:25
+2025-02-16 05:52:48,170 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:48,171 - INFO - Changing MAC address of lo to 00:1D:5E:40:5a:ec
+2025-02-16 05:52:48,237 - INFO - New MAC Address set: 00:1D:5E:40:5a:ec
+2025-02-16 05:52:50,243 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:50,243 - INFO - Changing MAC address of lo to 00:1D:5E:7c:1a:79
+2025-02-16 05:52:50,301 - INFO - New MAC Address set: 00:1D:5E:7c:1a:79
+2025-02-16 05:52:52,307 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:52,308 - INFO - Changing MAC address of lo to 00:1A:2B:cf:49:05
+2025-02-16 05:52:52,386 - INFO - New MAC Address set: 00:1A:2B:cf:49:05
+2025-02-16 05:52:54,392 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:54,392 - INFO - Changing MAC address of lo to 00:1B:3C:a6:59:c1
+2025-02-16 05:52:54,413 - INFO - New MAC Address set: 00:1B:3C:a6:59:c1
+2025-02-16 05:52:56,414 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:56,414 - INFO - Changing MAC address of lo to 00:1E:6F:d5:93:31
+2025-02-16 05:52:56,432 - INFO - New MAC Address set: 00:1E:6F:d5:93:31
+2025-02-16 05:52:58,434 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:52:58,434 - INFO - Changing MAC address of lo to 00:1D:5E:1a:be:35
+2025-02-16 05:52:58,452 - INFO - New MAC Address set: 00:1D:5E:1a:be:35
+2025-02-16 05:53:00,458 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:00,458 - INFO - Changing MAC address of lo to 00:1C:4D:74:67:85
+2025-02-16 05:53:00,523 - INFO - New MAC Address set: 00:1C:4D:74:67:85
+2025-02-16 05:53:02,529 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:02,529 - INFO - Changing MAC address of lo to 00:1B:3C:6b:c3:08
+2025-02-16 05:53:02,599 - INFO - New MAC Address set: 00:1B:3C:6b:c3:08
+2025-02-16 05:53:04,605 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:04,605 - INFO - Changing MAC address of lo to 00:1D:5E:5e:40:d2
+2025-02-16 05:53:04,652 - INFO - New MAC Address set: 00:1D:5E:5e:40:d2
+2025-02-16 05:53:06,657 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:06,658 - INFO - Changing MAC address of lo to 00:1A:2B:bf:71:b9
+2025-02-16 05:53:06,716 - INFO - New MAC Address set: 00:1A:2B:bf:71:b9
+2025-02-16 05:53:08,722 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:08,722 - INFO - Changing MAC address of lo to 00:1D:5E:76:df:49
+2025-02-16 05:53:08,784 - INFO - New MAC Address set: 00:1D:5E:76:df:49
+2025-02-16 05:53:10,786 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:10,786 - INFO - Changing MAC address of lo to 00:1A:2B:df:64:72
+2025-02-16 05:53:10,806 - INFO - New MAC Address set: 00:1A:2B:df:64:72
+2025-02-16 05:53:12,807 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:12,807 - INFO - Changing MAC address of lo to 00:1D:5E:8d:b0:84
+2025-02-16 05:53:12,831 - INFO - New MAC Address set: 00:1D:5E:8d:b0:84
+2025-02-16 05:53:14,833 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:14,833 - INFO - Changing MAC address of lo to 00:1C:4D:c4:f8:5c
+2025-02-16 05:53:14,852 - INFO - New MAC Address set: 00:1C:4D:c4:f8:5c
+2025-02-16 05:53:16,853 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:16,853 - INFO - Changing MAC address of lo to 00:1D:5E:d0:be:01
+2025-02-16 05:53:16,873 - INFO - New MAC Address set: 00:1D:5E:d0:be:01
+2025-02-16 05:53:18,875 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:18,875 - INFO - Changing MAC address of lo to 00:1B:3C:30:f6:ac
+2025-02-16 05:53:18,894 - INFO - New MAC Address set: 00:1B:3C:30:f6:ac
+2025-02-16 05:53:20,896 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:20,896 - INFO - Changing MAC address of lo to 00:1A:2B:3c:2b:8e
+2025-02-16 05:53:20,916 - INFO - New MAC Address set: 00:1A:2B:3c:2b:8e
+2025-02-16 05:53:22,917 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:22,917 - INFO - Changing MAC address of lo to 00:1E:6F:54:1e:b2
+2025-02-16 05:53:22,936 - INFO - New MAC Address set: 00:1E:6F:54:1e:b2
+2025-02-16 05:53:24,938 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:24,938 - INFO - Changing MAC address of lo to 00:1B:3C:02:c2:ae
+2025-02-16 05:53:24,957 - INFO - New MAC Address set: 00:1B:3C:02:c2:ae
+2025-02-16 05:53:26,959 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:26,959 - INFO - Changing MAC address of lo to 00:1C:4D:13:2c:43
+2025-02-16 05:53:26,978 - INFO - New MAC Address set: 00:1C:4D:13:2c:43
+2025-02-16 05:53:28,980 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:28,980 - INFO - Changing MAC address of lo to 00:1B:3C:3d:26:c9
+2025-02-16 05:53:29,000 - INFO - New MAC Address set: 00:1B:3C:3d:26:c9
+2025-02-16 05:53:31,002 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:31,002 - INFO - Changing MAC address of lo to 00:1E:6F:dd:47:5f
+2025-02-16 05:53:31,021 - INFO - New MAC Address set: 00:1E:6F:dd:47:5f
+2025-02-16 05:53:33,023 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:33,023 - INFO - Changing MAC address of lo to 00:1B:3C:c6:c5:b3
+2025-02-16 05:53:33,042 - INFO - New MAC Address set: 00:1B:3C:c6:c5:b3
+2025-02-16 05:53:35,043 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:35,043 - INFO - Changing MAC address of lo to 00:1E:6F:a1:77:07
+2025-02-16 05:53:35,063 - INFO - New MAC Address set: 00:1E:6F:a1:77:07
+2025-02-16 05:53:37,064 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:37,064 - INFO - Changing MAC address of lo to 00:1A:2B:51:7c:c0
+2025-02-16 05:53:37,084 - INFO - New MAC Address set: 00:1A:2B:51:7c:c0
+2025-02-16 05:53:39,085 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:39,085 - INFO - Changing MAC address of lo to 00:1D:5E:66:4f:42
+2025-02-16 05:53:39,104 - INFO - New MAC Address set: 00:1D:5E:66:4f:42
+2025-02-16 05:53:41,110 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:41,110 - INFO - Changing MAC address of lo to 00:1C:4D:3a:32:2a
+2025-02-16 05:53:41,180 - INFO - New MAC Address set: 00:1C:4D:3a:32:2a
+2025-02-16 05:53:43,186 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:43,186 - INFO - Changing MAC address of lo to 00:1C:4D:0c:47:86
+2025-02-16 05:53:43,231 - INFO - New MAC Address set: 00:1C:4D:0c:47:86
+2025-02-16 05:53:45,237 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:45,237 - INFO - Changing MAC address of lo to 00:1D:5E:de:32:42
+2025-02-16 05:53:45,296 - INFO - New MAC Address set: 00:1D:5E:de:32:42
+2025-02-16 05:53:47,301 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:47,302 - INFO - Changing MAC address of lo to 00:1E:6F:79:74:f4
+2025-02-16 05:53:47,342 - INFO - New MAC Address set: 00:1E:6F:79:74:f4
+2025-02-16 05:53:49,345 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:49,346 - INFO - Changing MAC address of lo to 00:1D:5E:a9:4f:02
+2025-02-16 05:53:49,422 - INFO - New MAC Address set: 00:1D:5E:a9:4f:02
+2025-02-16 05:53:51,429 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:51,429 - INFO - Changing MAC address of lo to 00:1E:6F:10:92:89
+2025-02-16 05:53:51,477 - INFO - New MAC Address set: 00:1E:6F:10:92:89
+2025-02-16 05:53:53,482 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:53,482 - INFO - Changing MAC address of lo to 00:1E:6F:d6:39:0a
+2025-02-16 05:53:53,547 - INFO - New MAC Address set: 00:1E:6F:d6:39:0a
+2025-02-16 05:53:55,549 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:55,549 - INFO - Changing MAC address of lo to 00:1E:6F:5f:da:1b
+2025-02-16 05:53:55,568 - INFO - New MAC Address set: 00:1E:6F:5f:da:1b
+2025-02-16 05:53:57,570 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:57,570 - INFO - Changing MAC address of lo to 00:1A:2B:18:f6:dd
+2025-02-16 05:53:57,590 - INFO - New MAC Address set: 00:1A:2B:18:f6:dd
+2025-02-16 05:53:59,591 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:53:59,592 - INFO - Changing MAC address of lo to 00:1D:5E:69:54:22
+2025-02-16 05:53:59,634 - INFO - New MAC Address set: 00:1D:5E:69:54:22
+2025-02-16 05:54:01,640 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:01,640 - INFO - Changing MAC address of lo to 00:1D:5E:99:56:7b
+2025-02-16 05:54:01,707 - INFO - New MAC Address set: 00:1D:5E:99:56:7b
+2025-02-16 05:54:03,708 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:03,708 - INFO - Changing MAC address of lo to 00:1D:5E:ad:8a:5a
+2025-02-16 05:54:03,727 - INFO - New MAC Address set: 00:1D:5E:ad:8a:5a
+2025-02-16 05:54:05,732 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:05,732 - INFO - Changing MAC address of lo to 00:1D:5E:78:41:32
+2025-02-16 05:54:05,789 - INFO - New MAC Address set: 00:1D:5E:78:41:32
+2025-02-16 05:54:07,795 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:07,795 - INFO - Changing MAC address of lo to 00:1C:4D:f7:6b:6b
+2025-02-16 05:54:07,861 - INFO - New MAC Address set: 00:1C:4D:f7:6b:6b
+2025-02-16 05:54:09,866 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:09,867 - INFO - Changing MAC address of lo to 00:1A:2B:12:27:6d
+2025-02-16 05:54:09,940 - INFO - New MAC Address set: 00:1A:2B:12:27:6d
+2025-02-16 05:54:11,946 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:11,947 - INFO - Changing MAC address of lo to 00:1C:4D:b8:60:72
+2025-02-16 05:54:11,989 - INFO - New MAC Address set: 00:1C:4D:b8:60:72
+2025-02-16 05:54:13,990 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:13,991 - INFO - Changing MAC address of lo to 00:1B:3C:a1:5b:98
+2025-02-16 05:54:14,013 - INFO - New MAC Address set: 00:1B:3C:a1:5b:98
+2025-02-16 05:54:16,014 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:16,015 - INFO - Changing MAC address of lo to 00:1C:4D:31:27:03
+2025-02-16 05:54:16,033 - INFO - New MAC Address set: 00:1C:4D:31:27:03
+2025-02-16 05:54:18,038 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:18,039 - INFO - Changing MAC address of lo to 00:1D:5E:e6:96:ab
+2025-02-16 05:54:18,101 - INFO - New MAC Address set: 00:1D:5E:e6:96:ab
+2025-02-16 05:54:20,104 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:20,104 - INFO - Changing MAC address of lo to 00:1C:4D:40:8d:a8
+2025-02-16 05:54:20,149 - INFO - New MAC Address set: 00:1C:4D:40:8d:a8
+2025-02-16 05:54:22,155 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:22,155 - INFO - Changing MAC address of lo to 00:1E:6F:72:f6:b2
+2025-02-16 05:54:22,232 - INFO - New MAC Address set: 00:1E:6F:72:f6:b2
+2025-02-16 05:54:24,237 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:24,238 - INFO - Changing MAC address of lo to 00:1D:5E:c1:96:89
+2025-02-16 05:54:24,303 - INFO - New MAC Address set: 00:1D:5E:c1:96:89
+2025-02-16 05:54:26,309 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:26,309 - INFO - Changing MAC address of lo to 00:1A:2B:36:f7:b8
+2025-02-16 05:54:26,382 - INFO - New MAC Address set: 00:1A:2B:36:f7:b8
+2025-02-16 05:54:28,388 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:28,388 - INFO - Changing MAC address of lo to 00:1E:6F:8f:b9:c2
+2025-02-16 05:54:28,455 - INFO - New MAC Address set: 00:1E:6F:8f:b9:c2
+2025-02-16 05:54:30,457 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:30,457 - INFO - Changing MAC address of lo to 00:1B:3C:3b:f6:79
+2025-02-16 05:54:30,477 - INFO - New MAC Address set: 00:1B:3C:3b:f6:79
+2025-02-16 05:54:32,483 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:32,483 - INFO - Changing MAC address of lo to 00:1A:2B:17:2d:fe
+2025-02-16 05:54:32,533 - INFO - New MAC Address set: 00:1A:2B:17:2d:fe
+2025-02-16 05:54:34,538 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:34,538 - INFO - Changing MAC address of lo to 00:1A:2B:5c:90:f8
+2025-02-16 05:54:34,604 - INFO - New MAC Address set: 00:1A:2B:5c:90:f8
+2025-02-16 05:54:36,606 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:36,606 - INFO - Changing MAC address of lo to 00:1D:5E:1a:f4:7c
+2025-02-16 05:54:36,626 - INFO - New MAC Address set: 00:1D:5E:1a:f4:7c
+2025-02-16 05:54:38,627 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:38,627 - INFO - Changing MAC address of lo to 00:1A:2B:cc:a6:a8
+2025-02-16 05:54:38,647 - INFO - New MAC Address set: 00:1A:2B:cc:a6:a8
+2025-02-16 05:54:40,648 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:40,649 - INFO - Changing MAC address of lo to 00:1E:6F:f3:2f:7f
+2025-02-16 05:54:40,667 - INFO - New MAC Address set: 00:1E:6F:f3:2f:7f
+2025-02-16 05:54:42,669 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:42,669 - INFO - Changing MAC address of lo to 00:1E:6F:68:7f:7e
+2025-02-16 05:54:42,688 - INFO - New MAC Address set: 00:1E:6F:68:7f:7e
+2025-02-16 05:54:44,690 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:44,690 - INFO - Changing MAC address of lo to 00:1E:6F:71:64:a4
+2025-02-16 05:54:44,709 - INFO - New MAC Address set: 00:1E:6F:71:64:a4
+2025-02-16 05:54:46,711 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:46,711 - INFO - Changing MAC address of lo to 00:1D:5E:95:a0:93
+2025-02-16 05:54:46,730 - INFO - New MAC Address set: 00:1D:5E:95:a0:93
+2025-02-16 05:54:48,732 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:48,732 - INFO - Changing MAC address of lo to 00:1B:3C:0d:4f:c6
+2025-02-16 05:54:48,751 - INFO - New MAC Address set: 00:1B:3C:0d:4f:c6
+2025-02-16 05:54:50,753 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:50,753 - INFO - Changing MAC address of lo to 00:1E:6F:07:2b:64
+2025-02-16 05:54:50,772 - INFO - New MAC Address set: 00:1E:6F:07:2b:64
+2025-02-16 05:54:52,774 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:52,774 - INFO - Changing MAC address of lo to 00:1E:6F:27:98:bc
+2025-02-16 05:54:52,793 - INFO - New MAC Address set: 00:1E:6F:27:98:bc
+2025-02-16 05:54:54,794 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:54,794 - INFO - Changing MAC address of lo to 00:1E:6F:0d:d9:cc
+2025-02-16 05:54:54,814 - INFO - New MAC Address set: 00:1E:6F:0d:d9:cc
+2025-02-16 05:54:56,816 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:56,816 - INFO - Changing MAC address of lo to 00:1B:3C:91:c4:9e
+2025-02-16 05:54:56,835 - INFO - New MAC Address set: 00:1B:3C:91:c4:9e
+2025-02-16 05:54:58,837 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:54:58,837 - INFO - Changing MAC address of lo to 00:1D:5E:0d:e6:a2
+2025-02-16 05:54:58,856 - INFO - New MAC Address set: 00:1D:5E:0d:e6:a2
+2025-02-16 05:55:00,858 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:00,858 - INFO - Changing MAC address of lo to 00:1E:6F:21:b0:6c
+2025-02-16 05:55:00,877 - INFO - New MAC Address set: 00:1E:6F:21:b0:6c
+2025-02-16 05:55:02,878 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:02,878 - INFO - Changing MAC address of lo to 00:1C:4D:5a:23:13
+2025-02-16 05:55:02,897 - INFO - New MAC Address set: 00:1C:4D:5a:23:13
+2025-02-16 05:55:04,898 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:04,898 - INFO - Changing MAC address of lo to 00:1E:6F:72:55:bb
+2025-02-16 05:55:04,917 - INFO - New MAC Address set: 00:1E:6F:72:55:bb
+2025-02-16 05:55:06,919 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:06,919 - INFO - Changing MAC address of lo to 00:1A:2B:b7:8a:16
+2025-02-16 05:55:06,940 - INFO - New MAC Address set: 00:1A:2B:b7:8a:16
+2025-02-16 05:55:08,945 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:08,946 - INFO - Changing MAC address of lo to 00:1A:2B:1f:28:90
+2025-02-16 05:55:09,009 - INFO - New MAC Address set: 00:1A:2B:1f:28:90
+2025-02-16 05:55:11,014 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:11,015 - INFO - Changing MAC address of lo to 00:1B:3C:0b:35:24
+2025-02-16 05:55:11,073 - INFO - New MAC Address set: 00:1B:3C:0b:35:24
+2025-02-16 05:55:13,077 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:13,077 - INFO - Changing MAC address of lo to 00:1B:3C:6a:9b:df
+2025-02-16 05:55:13,142 - INFO - New MAC Address set: 00:1B:3C:6a:9b:df
+2025-02-16 05:55:15,147 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:15,148 - INFO - Changing MAC address of lo to 00:1E:6F:df:5c:a3
+2025-02-16 05:55:15,200 - INFO - New MAC Address set: 00:1E:6F:df:5c:a3
+2025-02-16 05:55:17,202 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:17,202 - INFO - Changing MAC address of lo to 00:1A:2B:bf:75:25
+2025-02-16 05:55:17,220 - INFO - New MAC Address set: 00:1A:2B:bf:75:25
+2025-02-16 05:55:19,222 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:19,222 - INFO - Changing MAC address of lo to 00:1E:6F:6a:f3:60
+2025-02-16 05:55:19,246 - INFO - New MAC Address set: 00:1E:6F:6a:f3:60
+2025-02-16 05:55:21,247 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:21,248 - INFO - Changing MAC address of lo to 00:1E:6F:76:b5:19
+2025-02-16 05:55:21,266 - INFO - New MAC Address set: 00:1E:6F:76:b5:19
+2025-02-16 05:55:23,271 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:23,271 - INFO - Changing MAC address of lo to 00:1C:4D:b4:f2:a0
+2025-02-16 05:55:23,303 - INFO - New MAC Address set: 00:1C:4D:b4:f2:a0
+2025-02-16 05:55:25,304 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:25,304 - INFO - Changing MAC address of lo to 00:1D:5E:18:33:b6
+2025-02-16 05:55:25,323 - INFO - New MAC Address set: 00:1D:5E:18:33:b6
+2025-02-16 05:55:27,325 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:27,325 - INFO - Changing MAC address of lo to 00:1B:3C:19:32:e2
+2025-02-16 05:55:27,344 - INFO - New MAC Address set: 00:1B:3C:19:32:e2
+2025-02-16 05:55:29,350 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:29,350 - INFO - Changing MAC address of lo to 00:1B:3C:72:6b:2f
+2025-02-16 05:55:29,409 - INFO - New MAC Address set: 00:1B:3C:72:6b:2f
+2025-02-16 05:55:31,411 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:31,411 - INFO - Changing MAC address of lo to 00:1E:6F:c0:33:de
+2025-02-16 05:55:31,429 - INFO - New MAC Address set: 00:1E:6F:c0:33:de
+2025-02-16 05:55:33,432 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:33,432 - INFO - Changing MAC address of lo to 00:1A:2B:20:a6:e3
+2025-02-16 05:55:33,469 - INFO - New MAC Address set: 00:1A:2B:20:a6:e3
+2025-02-16 05:55:35,475 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:35,475 - INFO - Changing MAC address of lo to 00:1D:5E:4d:65:29
+2025-02-16 05:55:35,541 - INFO - New MAC Address set: 00:1D:5E:4d:65:29
+2025-02-16 05:55:37,547 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:37,547 - INFO - Changing MAC address of lo to 00:1E:6F:38:aa:2d
+2025-02-16 05:55:37,609 - INFO - New MAC Address set: 00:1E:6F:38:aa:2d
+2025-02-16 05:55:39,610 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:39,610 - INFO - Changing MAC address of lo to 00:1B:3C:7e:e7:86
+2025-02-16 05:55:39,628 - INFO - New MAC Address set: 00:1B:3C:7e:e7:86
+2025-02-16 05:55:41,634 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:41,634 - INFO - Changing MAC address of lo to 00:1A:2B:89:8f:4b
+2025-02-16 05:55:41,696 - INFO - New MAC Address set: 00:1A:2B:89:8f:4b
+2025-02-16 05:55:43,698 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:43,698 - INFO - Changing MAC address of lo to 00:1A:2B:06:ae:ea
+2025-02-16 05:55:43,717 - INFO - New MAC Address set: 00:1A:2B:06:ae:ea
+2025-02-16 05:55:45,722 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:45,723 - INFO - Changing MAC address of lo to 00:1C:4D:00:e9:63
+2025-02-16 05:55:45,796 - INFO - New MAC Address set: 00:1C:4D:00:e9:63
+2025-02-16 05:55:47,801 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:47,802 - INFO - Changing MAC address of lo to 00:1E:6F:a4:c3:8f
+2025-02-16 05:55:47,852 - INFO - New MAC Address set: 00:1E:6F:a4:c3:8f
+2025-02-16 05:55:49,853 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:49,853 - INFO - Changing MAC address of lo to 00:1A:2B:1d:cb:bf
+2025-02-16 05:55:49,890 - INFO - New MAC Address set: 00:1A:2B:1d:cb:bf
+2025-02-16 05:55:51,892 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:51,892 - INFO - Changing MAC address of lo to 00:1C:4D:9d:19:84
+2025-02-16 05:55:51,910 - INFO - New MAC Address set: 00:1C:4D:9d:19:84
+2025-02-16 05:55:53,916 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:53,916 - INFO - Changing MAC address of lo to 00:1B:3C:cf:b6:d1
+2025-02-16 05:55:53,980 - INFO - New MAC Address set: 00:1B:3C:cf:b6:d1
+2025-02-16 05:55:55,982 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:55,982 - INFO - Changing MAC address of lo to 00:1A:2B:9e:d8:90
+2025-02-16 05:55:56,000 - INFO - New MAC Address set: 00:1A:2B:9e:d8:90
+2025-02-16 05:55:58,006 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:55:58,006 - INFO - Changing MAC address of lo to 00:1A:2B:c3:7f:65
+2025-02-16 05:55:58,062 - INFO - New MAC Address set: 00:1A:2B:c3:7f:65
+2025-02-16 05:56:00,068 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:56:00,068 - INFO - Changing MAC address of lo to 00:1A:2B:78:1c:44
+2025-02-16 05:56:00,118 - INFO - New MAC Address set: 00:1A:2B:78:1c:44
+2025-02-16 05:56:02,123 - ERROR - Error getting MAC address: 'NoneType' object has no attribute 'group'
+2025-02-16 05:56:02,123 - INFO - Changing MAC address of lo to 00:1C:4D:32:72:45
+2025-02-16 05:56:02,184 - INFO - New MAC Address set: 00:1C:4D:32:72:45
+2025-02-16 05:56:04,136 - INFO - MAC Changer script terminated by user

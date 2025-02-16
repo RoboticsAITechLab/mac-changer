@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mac-changer.git
+   git clone https://github.com/RoboticsAITechLab/mac-changer.git
    cd mac-changer
    ```
 2. Install required dependencies:
